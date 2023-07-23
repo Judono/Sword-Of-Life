@@ -1,0 +1,22 @@
+export const MoodList = [
+  { mood: 'Joyful', color: '#F4D35E' },
+  { mood: 'Lustful', color: '#EE964B' },
+  { mood: 'Anxious', color: '#F95738' },
+  { mood: 'Angry', color: '#D72323' },
+  { mood: 'Sad', color: '#4F6D7A' },
+  { mood: 'Fearful', color: '#839788' },
+  { mood: 'Confused', color: '#EEE5E9' },
+  { mood: 'Hopeful', color: '#C0B283' },
+  { mood: 'Inspired', color: '#7EB77F' },
+  { mood: 'Excited', color: '#2D6A4F' },
+  { mood: 'Bored', color: '#BC4749' },
+  { mood: 'Peaceful', color: '#225560' },
+  { mood: 'Overwhelmed', color: '#169873' },
+  { mood: 'Curious', color: '#1C77C3' },
+  { mood: 'Satisfied', color: '#39A9DB' },
+  { mood: 'Surprised', color: '#40BCD8' },
+  { mood: 'Disgusted', color: '#4082a8' },
+  { mood: 'Calm', color: '#7EA0C4' },
+  { mood: 'Relaxed', color: '#9BC3EB' },
+  { mood: 'Nostalgic', color: '#2D3047' }
+];
